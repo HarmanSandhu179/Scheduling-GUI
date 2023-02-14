@@ -1,0 +1,8 @@
+{
+    "dates": [{
+        "month": "August",
+        "day": 1
+    }],
+    "services": [{"serviceDescription": "LawnMowing&Trimming"}],
+    "workers": [{"name": "Harman"}]
+}

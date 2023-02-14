@@ -1,0 +1,26 @@
+{
+    "dates": [
+        {
+            "month": "August",
+            "day": 20
+        },
+        {
+            "month": "August",
+            "day": 21
+        },
+        {
+            "month": "August",
+            "day": 22
+        }
+    ],
+    "services": [
+        {"serviceDescription": "FlowerServices"},
+        {"serviceDescription": "LawnMowing&Trimming"},
+        {"serviceDescription": "YardCleanup"}
+    ],
+    "workers": [
+        {"name": "Harman"},
+        {"name": "Harman"},
+        {"name": "Sahil"}
+    ]
+}
